@@ -1,5 +1,5 @@
 # stock-price-prediction
-A Python program to predict the next 30 days stock prices based on the historic data.
+A Python script to predict the next 30 days stock prices based on the historic data. This script can be edited to predict the stock price for the next day with higher accuracy.
 
 ## Requirements
 * Numpy
